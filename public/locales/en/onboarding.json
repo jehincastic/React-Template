@@ -1,0 +1,24 @@
+{
+	"setup": {
+		"title": "Setup Your Account",
+		"subTitle": "You are one step away from creating your account",
+		"action": "Create Account",
+		"address": "Add Company Address"
+	},
+	"fields": {
+		"name": {
+			"name": "Company Name",
+			"placeholder": "Enter your company name",
+			"error": {
+				"required": "Company name is required."
+			}
+		},
+		"type": {
+			"name": "Company Type",
+			"placeholder": "Select your company type",
+			"error": {
+				"invalid": "Invalid company type."
+			}
+		}
+	}
+}

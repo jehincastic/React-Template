@@ -1,0 +1,52 @@
+{
+	"fields": {
+		"lineOne": {
+			"name": "Line One",
+			"placeholder": "Enter address line one",
+			"error": {
+				"required": "Address line one is required."
+			}
+		},
+		"lineTwo": {
+			"name": "Line Two",
+			"placeholder": "Enter address line two"
+		},
+		"lineThree": {
+			"name": "Line Three",
+			"placeholder": "Enter address line three"
+		},
+		"city": {
+			"name": "City",
+			"placeholder": "Enter your city",
+			"error": {
+				"required": "City is required."
+			}
+		},
+		"state": {
+			"name": "State",
+			"placeholder": "Enter your state",
+			"error": {
+				"required": "State is required."
+			}
+		},
+		"country": {
+			"name": "Country",
+			"placeholder": "Enter your country",
+			"error": {
+				"required": "Country is required."
+			}
+		},
+		"postalCode": {
+			"name": "Postal Code",
+			"placeholder": "Enter your postal code",
+			"error": {
+				"invalid": "Invalid postal code."
+			}
+		}
+	},
+	"action": {
+		"new": "Add Address",
+		"update": "Edit Address",
+		"remove": "Remove Address"
+	}
+}

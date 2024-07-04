@@ -1,0 +1,24 @@
+{
+	"messages": {
+		"fetchUserInfo": "Fetching User Info..."
+	},
+	"navbar": {
+		"profile": "Profile",
+		"settings": "Account Settings",
+		"logout": "Logout",
+		"side": {
+			"integrations": "External Integrations",
+			"users": {
+				"base": "Users",
+				"list": "List All Users"
+			}
+		}
+	},
+	"error": {
+		"notFound": {
+			"title": "Not Found.",
+			"subTitle": "Sorry, the page you visited does not exist.",
+			"btnText": "Back Home"
+		}
+	}
+}
