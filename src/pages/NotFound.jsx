@@ -16,7 +16,7 @@ export const NotFound = () => {
 			title={t("error.notFound.title")}
 			btnText={t("error.notFound.btnText")}
 			subTitle={t("error.notFound.subTitle")}
-			code="404"
+			iconName="Home"
 			handleClick={handleNavigation}
 		/>
 	);

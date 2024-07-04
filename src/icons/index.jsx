@@ -1,7 +1,7 @@
 import {
 	Mail, Lock, Bell, BellRing,
 	X, Plus, User, Pencil, Trash,
-	Waves, Workflow,
+	Waves, Workflow, House,
 } from "lucide-react";
 
 export const AppLogo = ({ size = "24", className }) => {
@@ -47,6 +47,7 @@ const IconMap = {
 	Close: X,
 	Add: Plus,
 	User: User,
+	Home: House,
 	Edit: Pencil,
 	Delete: Trash,
 	Hamburger: Waves,
